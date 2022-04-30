@@ -24,10 +24,10 @@ class Example(QWidget):
         btn.move(50, 50)
 
 
-        self.resize(250, 150)
+        self.resize(300, 200)
         self.center()
 
-        self.setWindowTitle('Center')
+        self.setWindowTitle('My window now')
         self.show()
 
 
